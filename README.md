@@ -78,8 +78,4 @@
 ### 💡 Quote I Live By
 > *“If you want to go fast, go alone. If you want to go far, go together.”* — African Proverb
 
-### 📈 Visitor Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sallah10&label=Profile+Views&color=blueviolet&style=flat" alt="Sallah10" />
-</p>
 
