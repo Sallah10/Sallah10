@@ -1,81 +1,69 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=535&lines=Hi%2C+I'm+Bello+Muhammed+👋;Frontend+Engineer+%7C+React+%26+Next.js;UI+Animations;3D+Web+%7C+Performance+Focus" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bello+Muhammed+👋;Frontend+Engineer+%7C+Next.js+Specialist;Building+High-Performance+SaaS;Web3+%26+Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
+<div align="center">
+  <h3>🚀 Performance-Driven Frontend Engineer</h3>
+  <p>
+    I bridge the gap between <b>Design</b> and <b>Engineering</b>.
+    <br/>
+    Specializing in scalable <b>React & Next.js</b> architectures, <b>Web3</b> integrations, and <b>Core Web Vitals</b> optimization.
+  </p>
+  
+  <a href="https://bello-muhammed.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/bello-muhammed-1424bb27a">
+    <img src="https://img.shields.io/badge/👔_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-<p align="center">
-  <b>Frontend Engineer • UI Animation Aficionado • React/Next.js Specialist</b><br/>
-  Delivering web magic with performance & pixel perfection.
-</p>
+<br/>
+
+### 👨‍💻 Current Status
+- 🔭 **Working on:** High-performance dashboard architecture for a Stealth Startup.
+- ⚛️ **Focusing on:** React Server Components, Advanced Animations, and Accessibility.
+- 🤝 **Community:** Active contributor to Open Source & Developer Mentorship.
 
 ---
 
-### 💼 About Me
-- 🧑‍🏫 **Frontend Mentor & Web Dev Instructor** @ Code Early  
-- 💡 I love building fast, animated, and accessible web apps
-- 🧠 Passionate about: UI performance, micro-interactions, design systems
-- 🛠️ Exploring **Three.js**, **ShadCN**, and **Headless UI** for interactive 3D  
-- 🌍 Open to internships, freelance gigs & collaborations
+### 🛠 Technical Arsenal
+
+| **Core** | **Frameworks** | **Styling & UI** | **Tools & Backend** |
+|:---:|:---:|:---:|:---:|
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwind-css) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma) |
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js) ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js) | ![ShadCN](https://img.shields.io/badge/-ShadCN-000?style=flat-square&logo=shadcnui) ![Threejs](https://img.shields.io/badge/-Three.js-000?style=flat-square&logo=three.js) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel) |
 
 ---
-
-### ⚙️ Tech Stack
-
-| Languages & Frameworks | Styling & UI | Tools |
-|--|--|--|
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs) ![Vue](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxtdotjs) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwind-css) ![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-8B5CF6?style=flat) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress) |
-
 
 ### 🏆 Featured Projects
 
-#### ✅ [Habit Tracker](https://habit-tracker-steel-nine.vercel.app/)
->Animated habit tracker built with Next.js + Prisma + Framer Motion  
-🔧 `TypeScript`, `ShadCN`, `NextAuth`, `Tailwind`
+#### 💎 [Lead Management System (CRM)](https://1techlink-lms.vercel.app/login)
+> *Enterprise-grade CRM for marketing teams featuring Role-Based Access Control (RBAC).*
+>
+> 🛠 **Tech:** `Next.js 14 App Router` `TypeScript` `Tailwind` `Prisma` `NextAuth`
+>
+> 🚀 **Highlights:** Reduced data entry time by **30%** via server-side mutation and automated validation.
 
-#### 📊 [Admin Dashboard](https://admin-dashboard-zeta-one-45.vercel.app/)
->Secure role-based dashboard with charting using Tremor  
-🔧 `Next.js App Router`, `Prisma`, `JWT`, `Tremor`, `OAuth`
+#### ✅ [Habit Tracker Pro](https://habit-tracker-steel-nine.vercel.app/)
+> *Gamified productivity application with complex state management and animations.*
+>
+> 🛠 **Tech:** `React` `ShadCN/UI` `Framer Motion` `Tailwind`
+>
+> 🚀 **Highlights:** GPU-accelerated animations for 60fps performance on mobile devices.
 
-#### 📊 [3D Product Showcase](https://3d-product-showcase-three.vercel.app/)  
->An interactive 3D product viewer for e-commerce, built with Three.js. Perfect for showcasing products with 360° rotation and zoom.  
-🛠️ Tech: `React.js`, `Three.js`, `TailwindCSS`, `Framer Motion`
-
----
-
-### ✍️ Writing & Sharing
-- ✨ Sharing code breakdowns & dev learnings on [Medium](https://medium.com/@muhammedbello030)
-- 🧩 Love transforming complexity into simplicity through **interactive UIs**
-
----
----
-
-### 🌱 Learning & Exploring
-- Advanced TypeScript Patterns & Generics
-- Three.js for 3D Web Interactions
-- DSA for technical interviews
-- Smart contracts & Web3.js
+#### 🛒 [3D Product Showcase](https://3d-product-showcase-three.vercel.app/)
+> *Interactive 3D e-commerce viewer allowing 360° product inspection.*
+>
+> 🛠 **Tech:** `React Three Fiber` `Framer` `WebGL`
+>
+> 🚀 **Highlights:** Optimized high-poly 3D assets for sub-second load times.
 
 ---
 
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bello-muhammed-1424bb27a)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://bello-muhammed-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/-muhammedbello030@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammedbello030@gmail.com)
 
----
----
+<br/>
 
-### 🧠 Fun Facts
-- Mentored 20+ students to build real projects
-- Built & deployed 10+ personal and freelance apps
-- Active in dev communities: GDSC, NACOSS, CISSA
-
----
-
-### 💡 Quote I Live By
-> *“If you want to go fast, go alone. If you want to go far, go together.”* — African Proverb
-
-
+<div align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</div>
