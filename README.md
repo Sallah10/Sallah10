@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠 Technical Arsenal
+### Technical Arsenal
 
 | **Core** | **Frameworks** | **Styling & UI** | **Tools & Backend** |
 |:---:|:---:|:---:|:---:|
@@ -38,26 +38,26 @@
 
 ### 🏆 Featured Projects
 
-#### 💎 [Lead Management System (CRM)](https://1techlink-lms.vercel.app/login)
+####  [Lead Management System (CRM)](https://1techlink-lms.vercel.app/login)
 > *Enterprise-grade CRM for marketing teams featuring Role-Based Access Control (RBAC).*
 >
-> 🛠 **Tech:** `Next.js 14 App Router` `TypeScript` `Tailwind` `Prisma` `NextAuth`
+> **Tech:** `Next.js 14 App Router` `TypeScript` `Tailwind` `Prisma` `NextAuth`
 >
-> 🚀 **Highlights:** Reduced data entry time by **30%** via server-side mutation and automated validation.
+> **Highlights:** Reduced data entry time by **30%** via server-side mutation and automated validation.
 
-#### ✅ [Habit Tracker Pro](https://habit-tracker-steel-nine.vercel.app/)
+####  [Habit Tracker Pro](https://habit-tracker-steel-nine.vercel.app/)
 > *Gamified productivity application with complex state management and animations.*
 >
-> 🛠 **Tech:** `React` `ShadCN/UI` `Framer Motion` `Tailwind`
+> **Tech:** `React` `ShadCN/UI` `Framer Motion` `Tailwind`
 >
-> 🚀 **Highlights:** GPU-accelerated animations for 60fps performance on mobile devices.
+> **Highlights:** GPU-accelerated animations for 60fps performance on mobile devices.
 
-#### 🛒 [3D Product Showcase](https://3d-product-showcase-three.vercel.app/)
+#### [3D Product Showcase](https://3d-product-showcase-three.vercel.app/)
 > *Interactive 3D e-commerce viewer allowing 360° product inspection.*
 >
-> 🛠 **Tech:** `React Three Fiber` `Framer` `WebGL`
+> **Tech:** `React Three Fiber` `Framer` `WebGL`
 >
-> 🚀 **Highlights:** Optimized high-poly 3D assets for sub-second load times.
+> **Highlights:** Optimized high-poly 3D assets for sub-second load times.
 
 ---
 
